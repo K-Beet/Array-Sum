@@ -1,1 +1,1 @@
-## Adds the elements of two arrays together
+## first code : Adds the elements of two arrays together
